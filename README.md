@@ -9,10 +9,11 @@ This dataset consists of approximately 1.5 million beer reviews from Beer Advoca
 3. Which of the factors (aroma, taste, appearance, palette) are most important in determining the overall quality of a beer?
 4. Lastly, if I typically enjoy a beer due to its aroma and appearance, which beer style should I try?
 
-beerReviews.html -- The overall solution report generated from R Markdown.
+Beer Reviews Report.html -- The overall solution report generated from R Markdown(html version).
+
+Beer Reviews Report.pdf -- The overall solution report generated from R Markdown(pdf version).
 
 beerReviews.Rmd --  R Markdown file including codes and explanations.
 
 beerReviewAnalysis.R -- Raw R codes.
 
-beer_reviews.csv -- Dataset.
